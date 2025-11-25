@@ -9,7 +9,7 @@
 ### 🚀 About Me  
 꾸준히 성장하는 개발자 **A Sd** 입니다.  
 웹/앱 전체 흐름을 이해하며, 인증(JWT), 실시간(WebSocket), 위치 기반 서비스,  
-소셜 로그인(OAuth2)까지 직접 구현해본 경험이 있습니다.
+
 
 “문제를 해결하는 개발자”를 목표로  
 트러블슈팅과 구조 설계에 강점을 두고 있습니다.
@@ -46,7 +46,7 @@
 
 - 주소 기반 주변 탐색 / GPS / 카테고리 설정  
 - 회원/비회원 분리 인증(JWT with guestKey)  
-- 친구/채팅(WebSocket) 실시간 메시징  
+- 채팅(WebSocket) 실시간 메시징  
 - 즐겨찾기(위시리스트) 기능 완성  
 
 🔗 **[GitHub Repository](#)**  
@@ -91,7 +91,9 @@
 ### 🤝 **협업 & 커뮤니케이션**
 - REST API 문서화
 - Git Flow 사용 경험
-- Jira / Notion 협업 경험
+- Jira  협업 경험
+- Figma 사용 경험
+- 
 
 ---
 
@@ -106,9 +108,8 @@
 ---
 
 # 📫 Contact
-- **Email**: your@email.com  
-- **GitHub**: https://github.com/YOUR_GITHUB_ID  
-- **Velog**: https://velog.io/@yourname
+- **Email**: thdwlgns1210@naver.com  
+- **GitHub**: https://github.com/jihoons1
 
 ---
 
