@@ -100,8 +100,9 @@
 # 📊 GitHub Stats
 <div align="center">
   
-![A's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihoons1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoons1&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=jihoons1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoons1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 
 </div>
 
